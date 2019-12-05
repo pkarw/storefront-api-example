@@ -5,7 +5,6 @@ import resolvers from './graphql/resolvers'
 import schema from './graphql/schema'
 
 import path from 'path'
-import version from './api/version'
 import { loadSchema } from 'src/lib/elastic'
 
 export const CustomModule: StorefrontApiModule = new StorefrontApiModule({
