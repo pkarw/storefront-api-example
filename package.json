@@ -94,7 +94,7 @@
     "request": "^2.85.0",
     "request-promise-native": "^1.0.5",
     "resource-router-middleware": "^0.6.0",
-    "sharp": "^0.22.1",
+    "sharp": "^0.30.5",
     "soap": "^0.25.0",
     "syswide-cas": "latest",
     "tsconfig-paths": "^3.9.0",
